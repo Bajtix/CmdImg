@@ -1,0 +1,7 @@
+c:\users\bbaj\source\repos\dcitysim\dcitysim\obj\Debug\dcitysim.csprojAssemblyReference.cache
+c:\users\bbaj\source\repos\dcitysim\dcitysim\obj\Debug\dcitysim.csproj.CoreCompileInputs.cache
+c:\users\bbaj\source\repos\dcitysim\dcitysim\bin\Debug\dcitysim.exe.config
+c:\users\bbaj\source\repos\dcitysim\dcitysim\bin\Debug\dcitysim.exe
+c:\users\bbaj\source\repos\dcitysim\dcitysim\bin\Debug\dcitysim.pdb
+c:\users\bbaj\source\repos\dcitysim\dcitysim\obj\Debug\dcitysim.exe
+c:\users\bbaj\source\repos\dcitysim\dcitysim\obj\Debug\dcitysim.pdb
