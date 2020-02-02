@@ -5,3 +5,9 @@ c:\users\bbaj\source\repos\dcitysim\dcitysim\bin\Debug\dcitysim.exe
 c:\users\bbaj\source\repos\dcitysim\dcitysim\bin\Debug\dcitysim.pdb
 c:\users\bbaj\source\repos\dcitysim\dcitysim\obj\Debug\dcitysim.exe
 c:\users\bbaj\source\repos\dcitysim\dcitysim\obj\Debug\dcitysim.pdb
+C:\Users\bajti\Desktop\CmdImg-master\bin\Debug\dcitysim.exe.config
+C:\Users\bajti\Desktop\CmdImg-master\bin\Debug\dcitysim.exe
+C:\Users\bajti\Desktop\CmdImg-master\bin\Debug\dcitysim.pdb
+C:\Users\bajti\Desktop\CmdImg-master\obj\Debug\dcitysim.csprojAssemblyReference.cache
+C:\Users\bajti\Desktop\CmdImg-master\obj\Debug\dcitysim.exe
+C:\Users\bajti\Desktop\CmdImg-master\obj\Debug\dcitysim.pdb

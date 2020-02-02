@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.271
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dcitysim", "dcitysim\dcitysim.csproj", "{E64F311C-4AD7-488D-A16D-BDBE18176BAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dcitysim", "dcitysim.csproj", "{E64F311C-4AD7-488D-A16D-BDBE18176BAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3E5FC263-F4B8-4CCF-8C11-FAA713B3AE1F}
+		SolutionGuid = {2E6C4D7C-F431-48BA-96BF-C6CFFF6C0423}
 	EndGlobalSection
 EndGlobal
