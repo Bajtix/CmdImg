@@ -173,10 +173,10 @@ namespace dcitysim
                                     Thread.Sleep(100);
                                     client.DownloadFile(new Uri(arg1), arg2);
                                     client.Dispose();
+                                    Debug("Done. Filename: " + arg2 + " , any command works");
                                 }
                             }
                             catch { Debug("URL is incorrect");}
-                            finally { Debug("Done. Filename: " + arg2 + " , any command works"); }
                         }
                         else
                         {
@@ -237,13 +237,19 @@ namespace dcitysim
                                 int gd = img.LoadImg(arg1);
                                 Debug("Load color... \n");
                                 int cd = img.LoadImgColor(arg1);
+
+                                if (cd == -1 || gd == -1)
+                                    throw new Exception("Incorrect path");
+
                                 Debug("Assigning in array...");
                                 Thread.Sleep(1000);
                                 files.Add(new FIMG(gd, cd));
 
+                                Debug($"Image loaded succesfully with id of {files.Count - 1} \n");
+
                             }
                             catch { Debug("Something went really wrong. "); }
-                            finally { Debug($"Image loaded succesfully with id of {files.Count - 1} \n"); }
+                            
                         }
                     }
                 }
@@ -265,7 +271,7 @@ namespace dcitysim
                     else
                         Debug("Arguments: imgId, grays|color");
                 }
-
+                // Get help
                 if (command == "help")
                 {
                     Debug("Help menu: \n ------------------------------");
